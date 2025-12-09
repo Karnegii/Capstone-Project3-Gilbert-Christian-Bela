@@ -21,4 +21,5 @@ Those were the variables initially included in the dataset. However, for the tra
 - pcampaign (whether the customer was included in the previous campaign or not), which was extracted from pdays and poutcome  
   
 The main model used is **Random Forest Model** with final F1 Score of **70.18%** after going through cross-validation benchmarking and further hyperparameter tuning.  
+  
 The model also shows balance and age as features with the highest importance in determining whether a customer would subsribe or not.
