@@ -23,3 +23,5 @@ Those were the variables initially included in the dataset. However, for the tra
 The main model used is **Random Forest Model** with final F1 Score of **70.18%** after going through cross-validation benchmarking and further hyperparameter tuning.  
   
 The model also shows balance and age as features with the highest importance in determining whether a customer would subsribe or not.
+
+Pickle file link : https://drive.google.com/file/d/1ljt-phoTHb1CqnXu8Hh5NoB6uAJ3-eVH/view?usp=drive_link
